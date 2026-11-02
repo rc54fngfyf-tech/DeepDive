@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CE65C257-F847-4CC8-80DC-C7B78AB98E62"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23164553-2AA9-4FC1-89CF-A02433128DB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../../var/folders/36/nfgh_jk11zq853838ftygk1h0000gn/T/swift-generated-sources/@__swiftmacro_8DeepDive12SettingsViewV4user33_DCF0166820EE38ABF4B09CABB13AB019LL5QueryfMp_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
